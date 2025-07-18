@@ -32,7 +32,7 @@ func NewConfig() (*Config, error) {
 		Port:              ":8081",
 		Token:             "8050408674:AAGrHR3LHyIWEfF2ZNVt2x8wr29MxUzvM9g",
 		BaseURL:           "https://ccc8-89-219-13-135.ngrok-free.app", // Update this with your actual domain
-		DBName:            "meily.db",
+		DBName:            "alaman.db",
 		SavePaymentsDir:   "./payment",
 		AdminID:           800703982,
 		AdminID2:          7854239462,
