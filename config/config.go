@@ -41,7 +41,7 @@ func NewConfig() (*Config, error) {
 		StartVideoId:      "BAACAgIAAxkBAAIGQ2hs996Wo5tLH-aZu32XGWhcBjMxAALFeQACM7hoSwWQNDUxWvt-NgQ",
 		InstructorVideoId: "BAACAgIAAxkBAAIExWhf1MIAAZ0mGONHcGxOWRPHa4SRLAACXnUAAj8UAUt-qpkmBZGhqjYE",
 		Cost:              18900,
-		BotUsername:       "meilly_cosmetics_bot",
+		BotUsername:       "Alaman",
 		Bin:               "870304301209",
 		Bin2:              "060301551728",
 		Bin3:              "011225600097",
